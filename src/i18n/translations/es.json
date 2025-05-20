@@ -1,0 +1,209 @@
+{
+  "common": {
+    "home": "Inicio",
+    "documentation": "Documentación",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "copyright": "© 2025 UrbaDigiTech - Todos los derechos reservados"
+  },
+  "home": {
+    "title": "Bienvenido a SafarMood",
+    "description": "Encuentra el lugar perfecto para tu estado de ánimo",
+    "tagline": "Encuentra hoteles y restaurantes en Marruecos según el ambiente que buscas"
+  },
+  "filters": {
+    "city": "Ciudad",
+    "cuisine": "Cocina",
+    "services": "Servicios",
+    "priceRange": "Rango de precios",
+    "search": "Buscar",
+    "reset": "Reiniciar",
+    "mood": "¿Qué ambiente estás buscando?",
+    "establishmentType": "Tipo de establecimiento",
+    "all": "Todos",
+    "hotels": "Hoteles",
+    "restaurants": "Restaurantes"
+  },
+  "moods": {
+    "romantic": "Romántico",
+    "family": "Familiar",
+    "festive": "Festivo",
+    "traditional": "Tradicional",
+    "modern": "Moderno",
+    "quiet": "Tranquilo",
+    "luxury": "Lujoso"
+  },
+  "cities": {
+    "filterByCity": "Filtrar por ciudad",
+    "Casablanca": "Casablanca",
+    "Marrakech": "Marrakech",
+    "Rabat": "Rabat",
+    "Fes": "Fez",
+    "Tangier": "Tánger",
+    "Agadir": "Agadir",
+    "Essaouira": "Essaouira"
+  },
+  "cuisines": {
+    "Marocaine": "Marroquí",
+    "Internationale": "Internacional",
+    "Asiatique": "Asiática",
+    "Méditerranéenne": "Mediterránea",
+    "Fusion": "Fusión",
+    "Européenne": "Europea"
+  },
+  "services": {
+    "terrace": "Terraza",
+    "pool": "Piscina",
+    "accessibility": "Accesibilidad",
+    "wifi": "WiFi",
+    "spa": "Spa",
+    "gym": "Gimnasio",
+    "restaurant": "Restaurante",
+    "bar": "Bar",
+    "garden": "Jardín",
+    "kids club": "Club infantil",
+    "live music": "Música en vivo"
+  },
+  "priceRanges": {
+    "budget": "Económico",
+    "moderate": "Moderado",
+    "premium": "Premium",
+    "luxury": "Lujo"
+  },
+  "establishment": {
+    "details": "Detalles",
+    "features": "Características",
+    "actions": "Acciones",
+    "viewDetails": "Ver detalles",
+    "description": "Descripción",
+    "ambiance": "Ambiente",
+    "priceRange": "Rango de precios",
+    "rating": "Calificación",
+    "close": "Cerrar",
+    "reserve": "Reservar",
+    "notSpecified": "No especificado",
+    "noResults": "Sin resultados",
+    "tryModifyingCriteria": "Intenta modificar tus criterios de búsqueda.",
+    "resultsFound": "Resultados encontrados",
+    "matchingEstablishments": "{{count}} establecimiento(s) coinciden con tus criterios.",
+    "bookingInProgress": "Reserva en progreso",
+    "bookingDescription": "Tu reserva para {{name}} está siendo procesada.",
+    "establishmentsFound": "Establecimiento(s) encontrado(s)",
+    "descriptions": {
+      "1": "Un riad tradicional con ambiente romántico en el corazón de la medina.",
+      "2": "Hotel de lujo que ofrece una auténtica experiencia marroquí con instalaciones modernas.",
+      "3": "Restaurante tradicional marroquí en un entorno elegante con jardín.",
+      "4": "Restaurante con terraza en la azotea que ofrece vistas panorámicas de la medina.",
+      "5": "Hotel moderno con vistas al océano, ideal para viajes de negocios y familiares.",
+      "6": "Restaurante asiático moderno que ofrece platos de fusión y un ambiente elegante.",
+      "7": "Riad tradicional en el corazón de la medina de Fez con decoración auténtica."
+    }
+  },
+  "experiences": {
+    "title": "Actividades",
+    "description": "Descripción",
+    "viewDetails": "Ver detalles",
+    "book": "Reservar",
+    "free": "Gratis",
+    "noResults": "No se encontraron actividades",
+    "resultsFound": "{{count}} actividades encontradas",
+    "itinerary": "Itinerario",
+    "inclusions": "Incluido",
+    "exclusions": "No incluido",
+    "filters": {
+      "title": "Filtros",
+      "type": "Tipo de actividad",
+      "ambience": "Ambiente",
+      "city": "Ciudad",
+      "duration": "Duración",
+      "allCities": "Todas las ciudades",
+      "anyDuration": "Cualquier duración"
+    },
+    "types": {
+      "activity": "Actividad",
+      "tour": "Tour",
+      "event": "Evento"
+    },
+    "ambiences": {
+      "adventurous": "Aventurero",
+      "nature": "Naturaleza",
+      "cultural": "Cultural",
+      "traditional": "Tradicional",
+      "festive": "Festivo",
+      "gastronomic": "Gastronómico",
+      "romantic": "Romántico",
+      "quiet": "Tranquilo"
+    },
+    "duration": {
+      "halfDay": "Medio día",
+      "fullDay": "Día completo",
+      "multiDay": "Varios días"
+    }
+  },
+  "features": {
+    "title": "Características",
+    "moodSearch": {
+      "title": "Búsqueda por ambiente",
+      "description": "Filtra establecimientos por el ambiente deseado (romántico, familiar, festivo, etc.)"
+    },
+    "multipleFilters": {
+      "title": "Filtros múltiples",
+      "description": "Refina tu búsqueda por ciudad, tipo de establecimiento, cocina, servicios y rango de precios"
+    },
+    "detailedView": {
+      "title": "Vista detallada",
+      "description": "Consulta información completa sobre cada establecimiento con fotos y reseñas"
+    },
+    "easyBooking": {
+      "title": "Reserva fácil",
+      "description": "Reserva directamente desde la página de detalles del establecimiento"
+    },
+    "responsiveInterface": {
+      "title": "Interfaz responsive",
+      "description": "Aplicación adaptada a todos los dispositivos (ordenadores, tabletas, smartphones)"
+    },
+    "notifications": {
+      "title": "Notificaciones",
+      "description": "Recibe confirmaciones después de cada acción (búsqueda, reserva)"
+    }
+  },
+  "actions": {
+    "title": "Acciones posibles",
+    "moodSelection": {
+      "title": "Selección de ambiente",
+      "description": "Elige entre 7 ambientes diferentes (Romántico, Familiar, Festivo, Tradicional, Moderno, Tranquilo, Lujoso)"
+    },
+    "cityFilter": {
+      "title": "Filtrado por ciudad",
+      "description": "Selecciona entre las principales ciudades de Marruecos (Casablanca, Marrakech, Rabat, Fez, Tánger, Agadir, Essaouira)"
+    },
+    "establishmentType": {
+      "title": "Elección de tipo de establecimiento",
+      "description": "Filtra por hoteles, restaurantes o ambos"
+    },
+    "cuisineSelection": {
+      "title": "Selección de cocina",
+      "description": "Para restaurantes, elige entre diferentes tipos de cocina (Marroquí, Internacional, Asiática, etc.)"
+    },
+    "serviceFilter": {
+      "title": "Filtrado por servicios",
+      "description": "Selecciona los servicios deseados (piscina, spa, wifi, terraza, etc.)"
+    },
+    "priceRange": {
+      "title": "Elección de rango de precios",
+      "description": "Filtra según tu presupuesto (Económico, Moderado, Premium, Lujo)"
+    },
+    "search": {
+      "title": "Búsqueda",
+      "description": "Inicia la búsqueda con los criterios seleccionados"
+    },
+    "viewDetails": {
+      "title": "Ver detalles",
+      "description": "Muestra información completa sobre un establecimiento"
+    },
+    "booking": {
+      "title": "Reserva",
+      "description": "Inicia una reserva para el establecimiento seleccionado"
+    }
+  }
+}

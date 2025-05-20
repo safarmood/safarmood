@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <path d="M20 10 C25 5, 35 5, 40 10 C45 15, 45 25, 40 30 L30 40 L20 30 C15 25, 15 15, 20 10 Z" fill="#4CAF50"/>
+  <circle cx="30" cy="20" r="5" fill="white"/>
+  <text x="50" y="30" font-family="Arial" font-weight="bold" font-size="18" fill="#333">SafarMood</text>
+  <text x="50" y="45" font-family="Arial" font-size="12" fill="#666">Discover your mood</text>
+</svg>

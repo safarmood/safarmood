@@ -1,0 +1,233 @@
+{
+  "common": {
+    "home": "Accueil",
+    "documentation": "Documentation",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "copyright": "© 2025 UrbaDigiTech - Tous droits réservés"
+  },
+  "home": {
+    "title": "Bienvenue sur SafarMood",
+    "description": "Trouvez l'endroit idéal selon votre humeur",
+    "tagline": "Découvrez des hôtels et restaurants au Maroc selon l'ambiance que vous recherchez"
+  },
+  "filters": {
+    "city": "Ville",
+    "cuisine": "Cuisine",
+    "services": "Services",
+    "priceRange": "Gamme de prix",
+    "search": "Rechercher",
+    "reset": "Réinitialiser",
+    "mood": "Quelle ambiance recherchez-vous ?",
+    "establishmentType": "Type d'établissement",
+    "all": "Tous",
+    "hotels": "Hôtels",
+    "restaurants": "Restaurants"
+  },
+  "moods": {
+    "romantic": "Romantique",
+    "family": "Familial",
+    "festive": "Festif",
+    "traditional": "Traditionnel",
+    "modern": "Moderne",
+    "quiet": "Calme",
+    "luxury": "Luxe"
+  },
+  "cities": {
+    "filterByCity": "Filtrer par ville",
+    "Casablanca": "Casablanca",
+    "Marrakech": "Marrakech",
+    "Rabat": "Rabat",
+    "Fes": "Fès",
+    "Tangier": "Tanger",
+    "Agadir": "Agadir",
+    "Essaouira": "Essaouira"
+  },
+  "cuisines": {
+    "Marocaine": "Marocaine",
+    "Internationale": "Internationale",
+    "Asiatique": "Asiatique",
+    "Méditerranéenne": "Méditerranéenne",
+    "Fusion": "Fusion",
+    "Européenne": "Européenne"
+  },
+  "services": {
+    "terrace": "Terrasse",
+    "pool": "Piscine",
+    "accessibility": "Accessibilité",
+    "wifi": "WiFi",
+    "spa": "Spa",
+    "gym": "Salle de sport",
+    "restaurant": "Restaurant",
+    "bar": "Bar",
+    "garden": "Jardin",
+    "kids club": "Club enfants",
+    "live music": "Musique live"
+  },
+  "priceRanges": {
+    "budget": "Économique",
+    "moderate": "Modéré",
+    "premium": "Premium",
+    "luxury": "Luxe"
+  },
+  "establishment": {
+    "details": "Détails",
+    "features": "Caractéristiques",
+    "actions": "Actions",
+    "viewDetails": "Voir les détails",
+    "description": "Description",
+    "ambiance": "Ambiance",
+    "priceRange": "Gamme de prix",
+    "rating": "Évaluation",
+    "close": "Fermer",
+    "reserve": "Réserver",
+    "notSpecified": "Non spécifié",
+    "noResults": "Aucun résultat",
+    "tryModifyingCriteria": "Essayez de modifier vos critères de recherche.",
+    "resultsFound": "Résultats trouvés",
+    "matchingEstablishments": "{{count}} établissement(s) correspondent à vos critères.",
+    "bookingInProgress": "Réservation en cours",
+    "bookingDescription": "Votre réservation pour {{name}} est en cours de traitement.",
+    "establishmentsFound": "Établissement(s) trouvé(s)",
+    "descriptions": {
+      "1": "Un riad traditionnel avec une ambiance romantique au cœur de la médina.",
+      "2": "Hôtel de luxe offrant une expérience marocaine authentique avec des installations modernes.",
+      "3": "Restaurant marocain traditionnel dans un cadre élégant avec jardin.",
+      "4": "Restaurant avec terrasse sur le toit offrant une vue panoramique sur la médina.",
+      "5": "Hôtel moderne avec vue sur l'océan, idéal pour les voyages d'affaires et en famille.",
+      "6": "Restaurant asiatique moderne proposant des plats fusion et une ambiance élégante.",
+      "7": "Riad traditionnel au cœur de la médina de Fès avec une décoration authentique."
+    }
+  },
+  "experiences": {
+    "title": "Activités",
+    "description": "Description",
+    "viewDetails": "Voir les détails",
+    "book": "Réserver",
+    "free": "Gratuit",
+    "noResults": "Aucune activité trouvée",
+    "resultsFound": "{{count}} activités trouvées",
+    "itinerary": "Itinéraire",
+    "inclusions": "Inclus",
+    "exclusions": "Non inclus",
+    "filters": {
+      "title": "Filtres",
+      "type": "Type d'activité",
+      "ambience": "Ambiance",
+      "city": "Ville",
+      "duration": "Durée",
+      "allCities": "Toutes les villes",
+      "anyDuration": "Toute durée"
+    },
+    "types": {
+      "activity": "Activité",
+      "tour": "Excursion",
+      "event": "Événement"
+    },
+    "ambiences": {
+      "adventurous": "Aventureux",
+      "nature": "Nature",
+      "cultural": "Culturel",
+      "traditional": "Traditionnel",
+      "festive": "Festif",
+      "gastronomic": "Gastronomique",
+      "romantic": "Romantique",
+      "quiet": "Calme"
+    },
+    "duration": {
+      "halfDay": "Demi-journée",
+      "fullDay": "Journée complète",
+      "multiDay": "Plusieurs jours"
+    }
+  },
+  "auth": {
+    "loginTitle": "Connexion",
+    "registerTitle": "Créer un compte",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "username": "Nom d'utilisateur",
+    "usernamePlaceholder": "Entrez votre nom d'utilisateur",
+    "loginSuccess": "Connexion réussie",
+    "welcomeBack": "Bienvenue sur SafarMood",
+    "loginError": "Échec de connexion",
+    "invalidCredentials": "Email ou mot de passe incorrect",
+    "registerSuccess": "Inscription réussie",
+    "accountCreated": "Votre compte a été créé avec succès",
+    "verifyEmail": "Veuillez vérifier votre email pour confirmer votre compte",
+    "registerError": "Échec d'inscription",
+    "registrationFailed": "Impossible de créer le compte",
+    "emailAlreadyRegistered": "Cet email est déjà utilisé",
+    "passwordsDoNotMatch": "Les mots de passe ne correspondent pas",
+    "loggingIn": "Connexion en cours...",
+    "registering": "Création du compte en cours..."
+  },
+  "features": {
+    "title": "Fonctionnalités",
+    "moodSearch": {
+      "title": "Recherche par ambiance",
+      "description": "Filtrez les établissements par ambiance désirée (romantique, familial, festif, etc.)"
+    },
+    "multipleFilters": {
+      "title": "Filtres multiples",
+      "description": "Affinez votre recherche par ville, type d'établissement, cuisine, services et gamme de prix"
+    },
+    "detailedView": {
+      "title": "Vue détaillée",
+      "description": "Consultez les informations complètes sur chaque établissement avec photos et avis"
+    },
+    "easyBooking": {
+      "title": "Réservation facile",
+      "description": "Réservez directement depuis la page de détails de l'établissement"
+    },
+    "responsiveInterface": {
+      "title": "Interface responsive",
+      "description": "Application adaptée à tous les appareils (ordinateurs, tablettes, smartphones)"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Recevez des confirmations après chaque action (recherche, réservation)"
+    }
+  },
+  "actions": {
+    "title": "Actions possibles",
+    "moodSelection": {
+      "title": "Sélection d'ambiance",
+      "description": "Choisissez parmi 7 ambiances différentes (Romantique, Familial, Festif, Traditionnel, Moderne, Calme, Luxe)"
+    },
+    "cityFilter": {
+      "title": "Filtrage par ville",
+      "description": "Sélectionnez parmi les principales villes marocaines (Casablanca, Marrakech, Rabat, Fès, Tanger, Agadir, Essaouira)"
+    },
+    "establishmentType": {
+      "title": "Choix du type d'établissement",
+      "description": "Filtrez par hôtels, restaurants ou les deux"
+    },
+    "cuisineSelection": {
+      "title": "Sélection de cuisine",
+      "description": "Pour les restaurants, choisissez parmi différents types de cuisine (Marocaine, Internationale, Asiatique, etc.)"
+    },
+    "serviceFilter": {
+      "title": "Filtrage par services",
+      "description": "Sélectionnez les services désirés (piscine, spa, wifi, terrasse, etc.)"
+    },
+    "priceRange": {
+      "title": "Choix de gamme de prix",
+      "description": "Filtrez selon votre budget (Économique, Modéré, Premium, Luxe)"
+    },
+    "search": {
+      "title": "Recherche",
+      "description": "Lancez la recherche avec les critères sélectionnés"
+    },
+    "viewDetails": {
+      "title": "Voir les détails",
+      "description": "Affichez les informations complètes sur un établissement"
+    },
+    "booking": {
+      "title": "Réservation",
+      "description": "Initiez une réservation pour l'établissement sélectionné"
+    }
+  }
+}

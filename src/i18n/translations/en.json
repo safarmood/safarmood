@@ -1,0 +1,316 @@
+{
+  "common": {
+    "home": "Home",
+    "documentation": "Documentation",
+    "login": "Login",
+    "register": "Register",
+    "copyright": "© 2025 UrbaDigiTech - All rights reserved"
+  },
+  "home": {
+    "title": "Welcome to SafarMood",
+    "description": "Find the perfect place for your mood",
+    "tagline": "Find hotels and restaurants in Morocco based on the atmosphere you're looking for"
+  },
+  "filters": {
+    "city": "City",
+    "cuisine": "Cuisine",
+    "services": "Services",
+    "priceRange": "Price Range",
+    "search": "Search",
+    "reset": "Reset",
+    "mood": "What mood are you looking for?",
+    "establishmentType": "Establishment Type",
+    "all": "All",
+    "hotels": "Hotels",
+    "restaurants": "Restaurants"
+  },
+  "moods": {
+    "romantic": "Romantic",
+    "family": "Family",
+    "festive": "Festive",
+    "traditional": "Traditional",
+    "modern": "Modern",
+    "quiet": "Quiet",
+    "luxury": "Luxury"
+  },
+  "cities": {
+    "filterByCity": "Filter by city",
+    "Casablanca": "Casablanca",
+    "Marrakech": "Marrakech",
+    "Rabat": "Rabat",
+    "Fes": "Fes",
+    "Tangier": "Tangier",
+    "Agadir": "Agadir",
+    "Essaouira": "Essaouira"
+  },
+  "cuisines": {
+    "Marocaine": "Moroccan",
+    "Internationale": "International",
+    "Asiatique": "Asian",
+    "Méditerranéenne": "Mediterranean",
+    "Fusion": "Fusion",
+    "Européenne": "European"
+  },
+  "services": {
+    "terrace": "Terrace",
+    "pool": "Pool",
+    "accessibility": "Accessibility",
+    "wifi": "WiFi",
+    "spa": "Spa",
+    "gym": "Gym",
+    "restaurant": "Restaurant",
+    "bar": "Bar",
+    "garden": "Garden",
+    "kids club": "Kids Club",
+    "live music": "Live Music"
+  },
+  "priceRanges": {
+    "budget": "Budget",
+    "moderate": "Moderate",
+    "premium": "Premium",
+    "luxury": "Luxury"
+  },
+  "establishment": {
+    "details": "Details",
+    "features": "Features",
+    "actions": "Actions",
+    "viewDetails": "View Details",
+    "description": "Description",
+    "ambiance": "Ambiance",
+    "priceRange": "Price Range",
+    "rating": "Rating",
+    "close": "Close",
+    "reserve": "Reserve",
+    "notSpecified": "Not specified",
+    "noResults": "No results",
+    "tryModifyingCriteria": "Try modifying your search criteria.",
+    "resultsFound": "Results found",
+    "matchingEstablishments": "{{count}} establishment(s) match your criteria.",
+    "bookingInProgress": "Booking in progress",
+    "bookingDescription": "Your booking for {{name}} is being processed.",
+    "establishmentsFound": "Establishment(s) found",
+    "descriptions": {
+      "1": "A traditional riad with a romantic atmosphere in the heart of the medina.",
+      "2": "Luxury hotel offering an authentic Moroccan experience with modern facilities.",
+      "3": "Traditional Moroccan restaurant in an elegant setting with garden.",
+      "4": "Restaurant with rooftop terrace offering panoramic views of the medina.",
+      "5": "Modern hotel with ocean views, ideal for business and family travel.",
+      "6": "Modern Asian restaurant offering fusion dishes and an elegant atmosphere.",
+      "7": "Traditional riad in the heart of Fes medina with authentic decoration."
+    }
+  },
+  "experiences": {
+    "title": "Activities",
+    "description": "Description",
+    "viewDetails": "View details",
+    "book": "Book",
+    "free": "Free",
+    "noResults": "No activities found",
+    "resultsFound": "{{count}} activities found",
+    "itinerary": "Itinerary",
+    "inclusions": "Included",
+    "exclusions": "Not included",
+    "filters": {
+      "title": "Filters",
+      "type": "Activity type",
+      "ambience": "Ambience",
+      "city": "City",
+      "duration": "Duration",
+      "allCities": "All cities",
+      "anyDuration": "Any duration"
+    },
+    "types": {
+      "activity": "Activity",
+      "tour": "Tour",
+      "event": "Event"
+    },
+    "ambiences": {
+      "adventurous": "Adventurous",
+      "nature": "Nature",
+      "cultural": "Cultural",
+      "traditional": "Traditional",
+      "festive": "Festive",
+      "gastronomic": "Gastronomic",
+      "romantic": "Romantic",
+      "quiet": "Quiet"
+    },
+    "duration": {
+      "halfDay": "Half day",
+      "fullDay": "Full day",
+      "multiDay": "Multiple days"
+    }
+  },
+  "features": {
+    "title": "Features",
+    "moodSearch": {
+      "title": "Mood-based Search",
+      "description": "Filter establishments by desired mood (romantic, family, festive, etc.)"
+    },
+    "multipleFilters": {
+      "title": "Multiple Filters",
+      "description": "Refine your search by city, establishment type, cuisine, services, and price range"
+    },
+    "detailedView": {
+      "title": "Detailed View",
+      "description": "View complete information about each establishment with photos and reviews"
+    },
+    "easyBooking": {
+      "title": "Easy Booking",
+      "description": "Book directly from the establishment's detail page"
+    },
+    "responsiveInterface": {
+      "title": "Responsive Interface",
+      "description": "Application adapted to all devices (computers, tablets, smartphones)"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Receive confirmations after each action (search, booking)"
+    }
+  },
+  "actions": {
+    "title": "Possible Actions",
+    "moodSelection": {
+      "title": "Mood Selection",
+      "description": "Choose from 7 different moods (Romantic, Family, Festive, Traditional, Modern, Quiet, Luxury)"
+    },
+    "cityFilter": {
+      "title": "City Filtering",
+      "description": "Select from major Moroccan cities (Casablanca, Marrakech, Rabat, Fes, Tangier, Agadir, Essaouira)"
+    },
+    "establishmentType": {
+      "title": "Establishment Type Choice",
+      "description": "Filter by hotels, restaurants, or both"
+    },
+    "cuisineSelection": {
+      "title": "Cuisine Selection",
+      "description": "For restaurants, choose from different cuisine types (Moroccan, International, Asian, etc.)"
+    },
+    "serviceFilter": {
+      "title": "Service Filtering",
+      "description": "Select desired services (pool, spa, wifi, terrace, etc.)"
+    },
+    "priceRange": {
+      "title": "Price Range Choice",
+      "description": "Filter according to your budget (Budget, Moderate, Premium, Luxury)"
+    },
+    "search": {
+      "title": "Search",
+      "description": "Launch the search with selected criteria"
+    },
+    "viewDetails": {
+      "title": "View Details",
+      "description": "Display complete information about an establishment"
+    },
+    "booking": {
+      "title": "Booking",
+      "description": "Initiate a booking for the selected establishment"
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "registerTitle": "Create an Account",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username",
+    "usernamePlaceholder": "Choose a username",
+    "loginSuccess": "Login Successful",
+    "welcomeBack": "Welcome back to SafarMood",
+    "loginError": "Login Failed",
+    "invalidCredentials": "Invalid email or password",
+    "registerSuccess": "Registration Successful",
+    "accountCreated": "Your account has been created",
+    "verifyEmail": "Please check your email to verify your account",
+    "registerError": "Registration Failed",
+    "registrationFailed": "Could not create account",
+    "emailAlreadyRegistered": "This email is already registered",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "loggingIn": "Logging in...",
+    "registering": "Creating account...",
+    "emailTemplates": {
+      "title": "Custom Email Templates",
+      "description": "SafarMood uses customized email templates for a better user experience.",
+      "signup": "Registration Confirmation",
+      "signupDesc": "When you register, you'll receive a branded email with SafarMood's logo and colors to confirm your account.",
+      "reset": "Password Reset",
+      "resetDesc": "Password reset emails are customized with SafarMood branding for a consistent experience.",
+      "confirmSignup": "Confirm your signup",
+      "followLink": "Follow this link to confirm your user:",
+      "confirmMail": "Confirm your mail",
+      "spamNotice": "This message has been identified as spam.",
+      "legitimateMail": "Legitimate mail",
+      "receivingNotice": "You're receiving this email because you signed up for an application powered by Supabase ⚡",
+      "optOut": "Opt out of these emails"
+    }
+  },
+  "profile": {
+    "profile": "Profile",
+    "favorites": "Favorites",
+    "history": "History",
+    "viewProfile": "View Profile",
+    "signOut": "Sign Out",
+    "profileSettings": "Profile Settings",
+    "fullName": "Full Name",
+    "updateProfile": "Update Profile",
+    "updating": "Updating...",
+    "updateSuccess": "Profile Updated",
+    "profileUpdated": "Your profile has been updated successfully",
+    "updateError": "Update Failed",
+    "updateFailed": "Could not update profile",
+    "loginRequired": "Login Required",
+    "pleaseLogin": "Please login to view your profile",
+    "yourFavorites": "Your Favorites",
+    "yourHistory": "Your History"
+  },
+  "favorites": {
+    "noFavorites": "You haven't added any favorites yet",
+    "establishment": "Establishment",
+    "activity": "Activity",
+    "remove": "Remove",
+    "removeSuccess": "Removed from Favorites",
+    "itemRemoved": "Item removed from your favorites",
+    "removeError": "Remove Failed",
+    "removeFailed": "Could not remove from favorites"
+  },
+  "history": {
+    "noHistory": "No activity history yet",
+    "establishment": "Establishment",
+    "activity": "Activity",
+    "actions": {
+      "view": "Viewed",
+      "book": "Booked"
+    }
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "users": "Users Management",
+    "establishments": "Establishments",
+    "activities": "Activities",
+    "search": "Search",
+    "add": "Add New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "role": "Role",
+    "status": "Status",
+    "actions": "Actions",
+    "confirmDelete": "Are you sure you want to delete this item?",
+    "uploadCsv": "Upload CSV",
+    "downloadTemplate": "Download Template",
+    "importSuccess": "Data imported successfully",
+    "importError": "Error importing data",
+    "userRoles": {
+      "user": "User",
+      "admin": "Admin",
+      "super_admin": "Super Admin"
+    },
+    "userStatus": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "banned": "Banned"
+    }
+  }
+}
